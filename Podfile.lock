@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.6.0)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - ObjectMapper (3.1.0)
+  - PagingTableView (0.1.0)
+  - PKHUD (5.0.0)
+  - ReachabilitySwift (4.1.0)
+  - SDWebImage (4.3.2):
+    - SDWebImage/Core (= 4.3.2)
+  - SDWebImage/Core (4.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - PagingTableView
+  - PKHUD
+  - ReachabilitySwift
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  PagingTableView: ba7869ff22f7cf3f8b2190b0314688d2cb0e46c4
+  PKHUD: 3c001512c6e002091184197a8de7a20420786e3b
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  SDWebImage: 29bd3c0bc1f01e5eb59720847c64ad4c4ca1af5d
+
+PODFILE CHECKSUM: 2a50f59975428c4a691076892f0c73b13d564434
+
+COCOAPODS: 1.4.0
