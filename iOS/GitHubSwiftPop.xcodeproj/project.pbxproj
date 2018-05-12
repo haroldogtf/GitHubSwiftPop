@@ -196,7 +196,6 @@
 				0926E9CD204CA3A900350EC2 /* Frameworks */,
 				0926E9CE204CA3A900350EC2 /* Resources */,
 				44B191AABFF4204CB6B1F15E /* [CP] Embed Pods Frameworks */,
-				4EDA604595021C052126BC63 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -314,21 +313,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GitHubSwiftPop/Pods-GitHubSwiftPop-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		4EDA604595021C052126BC63 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GitHubSwiftPop/Pods-GitHubSwiftPop-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		7EF6E7704626EADAB201B3F8 /* [CP] Check Pods Manifest.lock */ = {

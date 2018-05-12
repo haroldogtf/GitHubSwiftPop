@@ -19,6 +19,16 @@ DEPENDENCIES:
   - ReachabilitySwift
   - SDWebImage
 
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - ObjectMapper
+    - PagingTableView
+    - PKHUD
+    - ReachabilitySwift
+    - SDWebImage
+
 SPEC CHECKSUMS:
   Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
   AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
@@ -28,6 +38,6 @@ SPEC CHECKSUMS:
   ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
   SDWebImage: 29bd3c0bc1f01e5eb59720847c64ad4c4ca1af5d
 
-PODFILE CHECKSUM: 2a50f59975428c4a691076892f0c73b13d564434
+PODFILE CHECKSUM: a4a00501402be933ee21d4bffd2619abc05c3805
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.5.0
